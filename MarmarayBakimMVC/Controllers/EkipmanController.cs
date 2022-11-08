@@ -52,6 +52,12 @@ namespace MarmarayBakimMVC.Controllers
             return 1;
         }
 
+        public int bisey2()
+        {
+            return 2;
+        }
+
+
         public IActionResult bisey()
         {
             return View();
