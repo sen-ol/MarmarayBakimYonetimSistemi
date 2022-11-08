@@ -47,6 +47,16 @@ namespace MarmarayBakimMVC.Controllers
             return View(ekipman);
         }
 
+        public int bisey()
+        {
+            return 1;
+        }
+
+        public int bisey2()
+        {
+            return 2;
+        }
+
 
         // GET: Ekipman/Create
         public IActionResult Create()
