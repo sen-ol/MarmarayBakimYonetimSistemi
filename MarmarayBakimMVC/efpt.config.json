@@ -1,0 +1,77 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "MarmarayBakimYonetimSistemiContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Contexts",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "MarmarayBakimMVC",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Ariza]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ArizaTuru]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Bolge]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Brans]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Ekipman]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EkipmanTur]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Gorev]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Istasyon]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Personel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Sistem]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-FDV7BE8\\SQLEXPRESS.MarmarayBakimYonetimSistemi",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
